@@ -10,8 +10,8 @@ public class CourseTest {
 
 	}
 
-	//@Test
-	@Ignore
+	@Test
+	//@Ignore
 	public void testIsValidCourse() {
 		Course course = new Course();
 		// First validate without any values set
